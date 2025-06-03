@@ -10,17 +10,10 @@ class DepartmentListItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Card(
-      color: Colors.white,
-      margin: const EdgeInsets.symmetric(vertical: 8.0),
-      child: ListTile(
-        title: Text(
-          departmentName,
-          style: const TextStyle(
-            color: Colors.deepPurple,
-            fontWeight: FontWeight.bold,
-          ),
-        ),
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 8),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(16),
         onTap: () {
           Provider.of<DepartmentData>(context, listen: false)
               .setSelectedDepartment(departmentName);
@@ -31,6 +24,32 @@ class DepartmentListItem extends StatelessWidget {
             ),
           );
         },
+        child: Ink(
+          decoration: BoxDecoration(
+            color: Colors.white,
+            borderRadius: BorderRadius.circular(16),
+            boxShadow: [
+              BoxShadow(
+                color: const Color.fromARGB(206, 123, 82, 195),
+                blurRadius: 8,
+                offset: Offset(0, 4),
+              ),
+            ],
+          ),
+          child: ListTile(
+            contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+            leading: const Icon(Icons.school, color: Colors.deepPurple),
+            title: Text(
+              departmentName,
+              style: const TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.w600,
+                color: Colors.deepPurple,
+              ),
+            ),
+            trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.deepPurple),
+          ),
+        ),
       ),
     );
   }
