@@ -5,6 +5,7 @@ final Map<String, List<String>> departmentCourses = {
     'Data Structures',
     'Artificial Intelligence',
     'Cloud Computing',
+    'salman',
     // ... Add all CSE courses
   ],
   'EEE': [
