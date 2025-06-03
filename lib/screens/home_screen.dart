@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(25),
                 ),
               ),
-              child: const Text('Explore Departments'),
+              child: const Text('Departments'),
               onPressed: () {
                 Navigator.push(
                   context,
