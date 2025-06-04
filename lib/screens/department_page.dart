@@ -13,13 +13,16 @@ class _DepartmentPageState extends State<DepartmentPage> {
   final List<String> _allDepartments = const [
     'CSE',
     'EEE',
+    'SWE',
+    'NFE',
     'BBA',
-    'LLB',
+    'MCT',
     'ENGLISH',
     'CIVIL',
     'PHARMACY',
-    'ARCHITECTURE',
+    'REAL ESTATE',
     'JOURNALISM',
+    
   ];
 
   List<String> _filteredDepartments = [];
