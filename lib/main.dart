@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
-import 'app.dart';
+import 'globals/favorites.dart'; // ✅ import this
+import 'app.dart'; // ✅ import your app entry point
 
-void main() {
-  runApp(const MyApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await loadFavorites(); // 🔄 Load saved favorites
+  runApp(MyApp());
 }

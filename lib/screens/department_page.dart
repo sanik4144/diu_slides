@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../widgets/department_list_item.dart';
+import '../widgets/app_drawer.dart';
 
 class DepartmentPage extends StatefulWidget {
   const DepartmentPage({super.key});
@@ -46,6 +47,7 @@ class _DepartmentPageState extends State<DepartmentPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 150, 230, 240), // cool blue background
+      drawer: const AppDrawer(),
       body: SafeArea(
         child: Column(
           children: [
@@ -62,26 +64,29 @@ class _DepartmentPageState extends State<DepartmentPage> {
               child: Column(
                 children: [
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      // Back Button
-                      // IconButton(
-                      //   icon: const Icon(Icons.arrow_back, color: Colors.white),
-                      //   onPressed: () {
-                      //     Navigator.pop(context);
-                      //   },
-                      // ),
-                      const Spacer(),
-                      // Centered Title
-                      Text(
-                        'Department List',
-                        style: GoogleFonts.poppins(
-                          fontSize: 20,
-                          fontWeight: FontWeight.w600,
-                          color: Colors.white,
+                      // 🍔 Hamburger on the left
+                      Builder(
+                        builder: (context) => IconButton(
+                          icon: const Icon(Icons.menu, color: Colors.white),
+                          onPressed: () => Scaffold.of(context).openDrawer(),
                         ),
                       ),
-                      const Spacer(),
-                      const SizedBox(width: 48),
+
+                      // 🏷️ Title in center (expanded)
+                      Expanded(
+                        child: Center(
+                          child: Text(
+                            'Department List',
+                            style: GoogleFonts.poppins(
+                              fontSize: 20,
+                              fontWeight: FontWeight.w600,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ),
+                      ),
                     ],
                   ),
                   const SizedBox(height: 10),

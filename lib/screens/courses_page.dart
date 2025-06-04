@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../data/course_lists.dart';
+import '../widgets/app_drawer.dart';
+import '../globals/favorites.dart';
 
 class CoursesPage extends StatefulWidget {
   final String departmentName;
@@ -14,7 +16,6 @@ class CoursesPage extends StatefulWidget {
 
 class _CoursesPageState extends State<CoursesPage> {
   final TextEditingController _searchController = TextEditingController();
-
   late List<String> _allCourses;
   List<String> _filteredCourses = [];
 
@@ -33,6 +34,32 @@ class _CoursesPageState extends State<CoursesPage> {
           .where((course) => course.toLowerCase().contains(query))
           .toList();
     });
+  }
+
+  void _toggleFavorite(String course) {
+    final item = {
+      'department': widget.departmentName,
+      'course': course,
+    };
+
+    setState(() {
+      final exists = favoriteCourses.any((c) =>
+          c['department'] == widget.departmentName && c['course'] == course);
+      if (exists) {
+        favoriteCourses.removeWhere((c) =>
+            c['department'] == widget.departmentName &&
+            c['course'] == course);
+      } else {
+        favoriteCourses.add(item);
+      }
+      saveFavorites();
+    });
+  }
+
+  bool _isFavorite(String course) {
+    return favoriteCourses.any((item) =>
+        item['department'] == widget.departmentName &&
+        item['course'] == course);
   }
 
   Future<void> _openCoursePdf(String course) async {
@@ -57,15 +84,15 @@ class _CoursesPageState extends State<CoursesPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 150, 230, 240), // 💠 soft cool background
+      backgroundColor: const Color.fromARGB(255, 150, 230, 240),
+      drawer: const AppDrawer(),
       body: SafeArea(
         child: Column(
           children: [
-            // 🔹 Custom AppBar with blue-teal theme
             Container(
               padding: const EdgeInsets.fromLTRB(16, 16, 16, 12),
               decoration: const BoxDecoration(
-                color: Color(0xFF0083B0), // 🌀 deep teal header
+                color: Color(0xFF0083B0),
                 borderRadius: BorderRadius.only(
                   bottomLeft: Radius.circular(20),
                   bottomRight: Radius.circular(20),
@@ -74,22 +101,30 @@ class _CoursesPageState extends State<CoursesPage> {
               child: Column(
                 children: [
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
+                      Builder(
+                        builder: (context) => IconButton(
+                          icon: const Icon(Icons.menu, color: Colors.white),
+                          onPressed: () => Scaffold.of(context).openDrawer(),
+                        ),
+                      ),
+                      Expanded(
+                        child: Center(
+                          child: Text(
+                            '${widget.departmentName} Courses',
+                            style: GoogleFonts.poppins(
+                              fontSize: 20,
+                              fontWeight: FontWeight.w600,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ),
+                      ),
                       IconButton(
                         icon: const Icon(Icons.arrow_back, color: Colors.white),
                         onPressed: () => Navigator.pop(context),
                       ),
-                      const Spacer(),
-                      Text(
-                        '${widget.departmentName} Courses',
-                        style: GoogleFonts.poppins(
-                          fontSize: 20,
-                          fontWeight: FontWeight.w600,
-                          color: Colors.white,
-                        ),
-                      ),
-                      const Spacer(),
-                      const SizedBox(width: 48),
                     ],
                   ),
                   const SizedBox(height: 10),
@@ -112,9 +147,7 @@ class _CoursesPageState extends State<CoursesPage> {
                         ),
                         filled: true,
                         fillColor: Colors.white,
-                        contentPadding: const EdgeInsets.symmetric(
-                          horizontal: 20,
-                        ),
+                        contentPadding: const EdgeInsets.symmetric(horizontal: 20),
                         border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(30),
                           borderSide: BorderSide.none,
@@ -125,10 +158,7 @@ class _CoursesPageState extends State<CoursesPage> {
                 ],
               ),
             ),
-
             const SizedBox(height: 10),
-
-            // 📘 Course List
             Expanded(
               child: _filteredCourses.isEmpty
                   ? const Center(
@@ -142,6 +172,8 @@ class _CoursesPageState extends State<CoursesPage> {
                       itemCount: _filteredCourses.length,
                       itemBuilder: (context, index) {
                         final course = _filteredCourses[index];
+                        final isFavorite = _isFavorite(course);
+
                         return Card(
                           margin: const EdgeInsets.symmetric(vertical: 8),
                           shape: RoundedRectangleBorder(
@@ -160,7 +192,19 @@ class _CoursesPageState extends State<CoursesPage> {
                               Icons.menu_book,
                               color: Color(0xFF0083B0),
                             ),
-                            trailing: const Icon(Icons.open_in_new, size: 18),
+                            trailing: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                IconButton(
+                                  icon: Icon(
+                                    isFavorite ? Icons.star : Icons.star_border,
+                                    color: Colors.amber,
+                                  ),
+                                  onPressed: () => _toggleFavorite(course),
+                                ),
+                                const Icon(Icons.open_in_new, size: 18),
+                              ],
+                            ),
                             onTap: () => _openCoursePdf(course),
                           ),
                         );
