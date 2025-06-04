@@ -260,19 +260,28 @@ String getPdfUrl(String department, String course) {
     }
 
 
-
+// eee dept 
   if (department == 'EEE' && course == 'Electrical Circuits I') {
     return 'https://www.tutorialspoint.com/...';
   }
+
+
+
   if (department == 'BBA' && course == 'Business Law') {
     return 'https://drive.google.com/...';
   }
+
+
   if (department == 'PHARMACY' && course == 'Pharmaceutical Chemistry I') {
     return 'https://pharmacy.unc.edu/...';
   }
+
+
   if (department == 'ARCHITECTURE' && course == 'Basic Design') {
     return 'https://drive.google.com/...';
   }
+
+  
   if (department == 'JOURNALISM' && course == 'Introduction to Journalism') {
     return 'https://www.routledgehandbooks.com/...';
   }
