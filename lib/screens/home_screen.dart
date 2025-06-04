@@ -1,54 +1,66 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import '../models/department_data.dart';
 import 'department_page.dart';
 
-class HomeScreen extends StatefulWidget {
-  const HomeScreen({super.key});
+class SplashScreen extends StatefulWidget {
+  const SplashScreen({super.key});
 
   @override
-  State<HomeScreen> createState() => _HomeScreenState();
+  State<SplashScreen> createState() => _SplashScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateMixin {
-  late AnimationController _buttonController;
-  late Animation<double> _scaleAnimation;
-  bool _showWelcomeText = false;
-  int _charIndex = 0;
-  String _fullText = "Welcome to DIU Slides!";
+class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMixin {
+  late AnimationController _logoController;
+  late Animation<double> _logoOpacity;
+
+  String _fullText = "Welcome to SlideSpark!";
   String _displayedText = "";
+  int _charIndex = 0;
+  bool _showTagline = false;
 
   @override
   void initState() {
     super.initState();
 
-    // Button bounce effect
-    _buttonController = AnimationController(
+    _logoController = AnimationController(
       vsync: this,
-      duration: const Duration(milliseconds: 600),
+      duration: const Duration(seconds: 2),
     );
-    _scaleAnimation = CurvedAnimation(parent: _buttonController, curve: Curves.elasticOut);
-    _buttonController.forward();
+    _logoOpacity = Tween<double>(begin: 0, end: 1).animate(_logoController);
+    _logoController.forward();
 
-    // Simulated typewriter effect
-    Future.delayed(const Duration(milliseconds: 500), _updateText);
+    Future.delayed(const Duration(milliseconds: 500), _typeText);
+
+    Future.delayed(const Duration(seconds: 4), () {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(
+          builder: (context) => ChangeNotifierProvider(
+            create: (_) => DepartmentData(),
+            child: const DepartmentPage(),
+          ),
+        ),
+      );
+    });
   }
 
-  void _updateText() {
+  void _typeText() {
     if (_charIndex < _fullText.length) {
       setState(() {
         _displayedText += _fullText[_charIndex];
         _charIndex++;
       });
-      Future.delayed(const Duration(milliseconds: 100), _updateText);
+      Future.delayed(const Duration(milliseconds: 80), _typeText);
     } else {
-      _showWelcomeText = true;
+      _showTagline = true;
     }
   }
 
   @override
   void dispose() {
-    _buttonController.dispose();
+    _logoController.dispose();
     super.dispose();
   }
 
@@ -56,11 +68,10 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
   Widget build(BuildContext context) {
     return Scaffold(
       body: AnimatedContainer(
-        duration: const Duration(seconds: 3),
-        curve: Curves.easeInOut,
+        duration: const Duration(seconds: 2),
         decoration: const BoxDecoration(
           gradient: LinearGradient(
-            colors: [Color(0xFF7F00FF), Color(0xFFE100FF)],
+            colors: [Color(0xFF0083B0), Color(0xFF00B4DB)],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
@@ -69,58 +80,51 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              // Logo fade-in
+              FadeTransition(
+                opacity: _logoOpacity,
+                child: Container(
+                  height: 100,
+                  width: 100,
+                  margin: const EdgeInsets.only(bottom: 20),
+                  decoration: const BoxDecoration(
+                    shape: BoxShape.circle,
+                    image: DecorationImage(
+                      image: AssetImage('assets/images/splash_logo.jpeg'),
+                      fit: BoxFit.cover,
+                    ),
+                  ),
+                ),
+              ),
+
+              // Animated welcome text with modern font
               AnimatedOpacity(
-                opacity: _showWelcomeText ? 1.0 : 0.5,
-                duration: const Duration(seconds: 1),
+                opacity: _charIndex > 0 ? 1 : 0,
+                duration: const Duration(milliseconds: 500),
                 child: Text(
                   _displayedText,
-                  style: const TextStyle(
+                  style: GoogleFonts.quicksand(
                     fontSize: 28,
+                    fontWeight: FontWeight.w600,
                     color: Colors.white,
-                    fontWeight: FontWeight.bold,
-                    letterSpacing: 1.2,
+                    letterSpacing: 1.3,
                   ),
                 ),
               ),
-              const SizedBox(height: 20),
-              AnimatedSwitcher(
-                duration: const Duration(milliseconds: 800),
-                child: _showWelcomeText
-                    ? const Icon(Icons.school, size: 80, color: Colors.white, key: ValueKey(1))
-                    : const Icon(Icons.auto_stories, size: 80, color: Colors.white54, key: ValueKey(2)),
-              ),
-              const SizedBox(height: 40),
-              ScaleTransition(
-                scale: _scaleAnimation,
-                child: Hero(
-                  tag: 'dept-btn',
-                  child: ElevatedButton(
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.white,
-                      foregroundColor: Colors.deepPurple,
-                      padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 20),
-                      textStyle: const TextStyle(fontSize: 18),
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(25),
-                      ),
-                      elevation: 10,
-                      shadowColor: Colors.deepPurple,
+
+              // Tagline
+              if (_showTagline)
+                Padding(
+                  padding: const EdgeInsets.only(top: 10),
+                  child: Text(
+                    'Your gateway to organized academic slides',
+                    style: GoogleFonts.quicksand(
+                      fontSize: 16,
+                      color: Colors.white70,
+                      fontStyle: FontStyle.italic,
                     ),
-                    child: const Text('Go to Department'),
-                    onPressed: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (context) => ChangeNotifierProvider(
-                            create: (_) => DepartmentData(),
-                            child: const DepartmentPage(),
-                          ),
-                        ),
-                      );
-                    },
                   ),
                 ),
-              ),
             ],
           ),
         ),

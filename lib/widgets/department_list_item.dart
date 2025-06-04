@@ -30,24 +30,24 @@ class DepartmentListItem extends StatelessWidget {
             borderRadius: BorderRadius.circular(16),
             boxShadow: [
               BoxShadow(
-                color: const Color.fromARGB(206, 123, 82, 195),
+                color: const Color.fromARGB(160, 0, 131, 176), // cool teal shadow
                 blurRadius: 8,
-                offset: Offset(0, 4),
+                offset: const Offset(0, 4),
               ),
             ],
           ),
           child: ListTile(
             contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-            leading: const Icon(Icons.school, color: Colors.deepPurple),
+            leading: const Icon(Icons.school, color: Color(0xFF0083B0)), // blue-teal
             title: Text(
               departmentName,
               style: const TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.w600,
-                color: Colors.deepPurple,
+                color: Color(0xFF0083B0), // blue-teal text
               ),
             ),
-            trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.deepPurple),
+            trailing: const Icon(Icons.arrow_forward_ios, size: 16, color: Color(0xFF0083B0)),
           ),
         ),
       ),
