@@ -1123,103 +1123,103 @@ if (department == 'SWE' && course == 'Art of Living') {
 //nfe 
 
 if (department == 'NFE' && course == 'Food Laws and Regulation') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodLaws_Link';
+    return 'https://drive.google.com/drive/folders/1Xu8MhNhEl4Ufr7RX1iyS5iyxlDMnxOBX?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Food Engineering and Economics') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodEngineeringEconomics_Link';
+    return 'https://drive.google.com/drive/folders/1Gck38-18Et2z9fthd4UGo1mm0Eeuyc6s?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Advanced Food Microbiology') {
-    return 'https://drive.google.com/drive/folders/NFE_AdvancedFoodMicrobiology_Link';
+    return 'https://drive.google.com/drive/folders/1wLsFJZl3wTD7c0IqvNNkIIuPPz7sBddU?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Quality Control and Assessment in Food Processing Industries') {
-    return 'https://drive.google.com/drive/folders/NFE_QualityControlAssessment_Link';
+    return 'https://drive.google.com/drive/folders/1cwX8L6yDKZ4w2f0eUduhlhv9WBHMjwby?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Principles of Marketing') {
-    return 'https://drive.google.com/drive/folders/NFE_PrinciplesMarketing_Link';
+    return 'https://drive.google.com/drive/folders/15fQ-XYbO0Ziu_WtfoexQ8mvEGAqq1mdi?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Nutritional Planning') {
-    return 'https://drive.google.com/drive/folders/NFE_NutritionalPlanning_Link';
+    return 'https://drive.google.com/drive/folders/1ILm8sCroUQOVDva_rWF34qc5FSmz6_wI?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Water and Beverage Technology') {
-    return 'https://drive.google.com/drive/folders/NFE_WaterBeverageTechnology_Link';
+    return 'https://drive.google.com/drive/folders/1E9JnLM-u-pT-6JOUUAcPKzKZzcI1lhix?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Water and Beverage Technology Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_WaterBeverageTechnologyPractical_Link';
+    return 'https://drive.google.com/drive/folders/1XdY8pvRBoD7dbarNgU7VYsKXpLjYwP0S?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Advanced Food Process Engineering') {
-    return 'https://drive.google.com/drive/folders/NFE_AdvancedFoodProcessEngineering_Link';
+    return 'https://drive.google.com/drive/folders/1SMy82Rx2fWiTwpiIK7jR95GJEBXcDyL9?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Food Microbiology') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodMicrobiology_Link';
+    return 'https://drive.google.com/drive/folders/1dj8pGe1h2mvNUZ2XhRRTRmwFLDjY0Vj7?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Food Processing and Packaging Engineering Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodProcessingPackagingPractical_Link';
+    return 'https://drive.google.com/drive/folders/1FD_YltQ8Vrh5BkZwBjRn7lJsCXcgj_18?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Food Microbiology Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodMicrobiologyPractical_Link';
+    return 'https://drive.google.com/drive/folders/1HtfbKda_r3NEpouy2TrjGARmKntPnL_0?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Food Processing and Packaging Engineering') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodProcessingPackaging_Link';
+    return 'https://drive.google.com/drive/folders/1-BvRT1Yw0OfHCowJdNKk3T1dSk4ebTvc?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Mathematics I') {
-    return 'https://drive.google.com/drive/folders/NFE_MathematicsI_Link';
+    return 'https://drive.google.com/drive/folders/1FbZsoRWKEe6gTYvQUU6xJMWThsPXJ1Ut?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Fruits and Vegetable Technology Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_FruitsVegTechPractical_Link';
+    return 'https://drive.google.com/drive/folders/1dpyUXpZGNaYu6mhcFXTw9St_xYml8COy?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Dairy Science and Engineering Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_DairyScienceEngPractical_Link';
+    return 'https://drive.google.com/drive/folders/1A_BGJNIKGkbRfC6pxOBmFjxQq283kABU?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Fruits and Vegetable Technology') {
-    return 'https://drive.google.com/drive/folders/NFE_FruitsVegTech_Link';
+    return 'https://drive.google.com/drive/folders/1APyT0TJ9lDoEKmvPW-jazpVPVa-FIekG?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Clinical Nutrition') {
-    return 'https://drive.google.com/drive/folders/NFE_ClinicalNutrition_Link';
+    return 'https://drive.google.com/drive/folders/1m2ffo_sruhagsv1sxFypC9dnXUneIC0q?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Nutrition in Health and Disease Practical') {
     return 'https://drive.google.com/drive/folders/NFE_NutritionHealthDiseasePractical_Link';
 }
 if (department == 'NFE' && course == 'Dairy Science and Engineering') {
-    return 'https://drive.google.com/drive/folders/NFE_DairyScienceEngineering_Link';
+    return 'https://drive.google.com/drive/folders/1v3W2MoHfZ4ZioUWIpvxm_rt9l8iopRWf?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Clinical Nutrition Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_ClinicalNutritionPractical_Link';
+    return 'https://drive.google.com/drive/folders/1OkaINY2nyOmfp6Vf9rrIWO2C4TfXAVZL?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Nutrition in Health and Disease') {
-    return 'https://drive.google.com/drive/folders/NFE_NutritionHealthDisease_Link';
+    return 'https://drive.google.com/drive/folders/1UiVYP-Z5KZknp9yndOYM0fPJC6ssbr_P?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Biochemistry') {
-    return 'https://drive.google.com/drive/folders/NFE_Biochemistry_Link';
+    return 'https://drive.google.com/drive/folders/1vfsHFHNgxdJe7GQT1m-J6a0IJg_iNYTJ?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Statistics I') {
-    return 'https://drive.google.com/drive/folders/NFE_StatisticsI_Link';
+    return 'https://drive.google.com/drive/folders/1PLVV5pUKkjHf48iHMz4LO8iBNB44cAS2?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Engineering Properties and Principle of Food Machineries') {
     return 'https://drive.google.com/drive/folders/NFE_EngineeringPropertiesFoodMachineries_Link';
 }
 if (department == 'NFE' && course == 'Dietetics Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_DieteticsPractical_Link';
+    return 'https://drive.google.com/drive/folders/10ajX3160pBbLnFmfAPpsme2ShXOM3LcF?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Baking and Confectionery Technology') {
-    return 'https://drive.google.com/drive/folders/NFE_BakingConfectioneryTechnology_Link';
+    return 'https://drive.google.com/drive/folders/1dDAq-MTjjPi9aosRXvD08k2U72ouLqWY?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Baking and Confectionery Technology Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_BakingConfectioneryTechnologyPractical_Link';
+    return 'https://drive.google.com/drive/folders/1vqZmX8sLxgIXBPJCjhGxVhSjDbPNqlb4?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Biochemistry Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_BiochemistryPractical_Link';
+    return 'https://drive.google.com/drive/folders/1QsYEl5VceWPah24sYzgoCKmPQeQEv_1z?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Food Biotechnology') {
-    return 'https://drive.google.com/drive/folders/NFE_FoodBiotechnology_Link';
+    return 'https://drive.google.com/drive/folders/13fiF-x19iajm1BtAvwjmV7eaQ0qofwz4?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Dietetics') {
-    return 'https://drive.google.com/drive/folders/NFE_Dietetics_Link';
+    return 'https://drive.google.com/drive/folders/19elkAo2e_l0_GWe0aEbzdtvIXTnV9eeH?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Unit Processing in Food Industries') {
-    return 'https://drive.google.com/drive/folders/NFE_UnitProcessingFoodIndustries_Link';
+    return 'https://drive.google.com/drive/folders/1XTgTnzFfF91FhI_RGEPIvUSEaLRa8z0I?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Methods for Nutritional Status') {
-    return 'https://drive.google.com/drive/folders/NFE_MethodsNutritionalStatus_Link';
+    return 'https://drive.google.com/drive/folders/1_DuXpgl54QQ5XG8Qig-hNhJr8CCvkA2i?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Organic Chemistry Practical') {
     return 'https://drive.google.com/drive/folders/NFE_OrganicChemistryPractical_Link';
@@ -1228,37 +1228,37 @@ if (department == 'NFE' && course == 'Unit Operations in Food Industries Practic
     return 'https://drive.google.com/drive/folders/NFE_UnitOperationsFoodIndustriesPractical_Link';
 }
 if (department == 'NFE' && course == 'Unit Operations in Food Industries') {
-    return 'https://drive.google.com/drive/folders/NFE_UnitOperationsFoodIndustries_Link';
+    return 'https://drive.google.com/drive/folders/1WH5lFEKLcv2Oz1oxFE0_Itpz1fdmr67R?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Human Physiology') {
-    return 'https://drive.google.com/drive/folders/NFE_HumanPhysiology_Link';
+    return 'https://drive.google.com/drive/folders/1pyCZvzCpKyHsr_DCWfNNM7rfeeiW_jno?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Organic Chemistry') {
-    return 'https://drive.google.com/drive/folders/NFE_OrganicChemistry_Link';
+    return 'https://drive.google.com/drive/folders/1PPCqdY2RYLp6UHVPvkWwJxVwRxPY-Lb0?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Human Physiology Practical') {
-    return 'https://drive.google.com/drive/folders/NFE_HumanPhysiologyPractical_Link';
+    return 'https://drive.google.com/drive/folders/1TZS3QE9-SahDkBaovtLEFEWl6QckD9fZ?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Physical, Inorganic and Analytic Chemistry Practical') {
     return 'https://drive.google.com/drive/folders/NFE_PhysicalInorganicAnalyticChemistryPractical_Link';
 }
 if (department == 'NFE' && course == 'Computer Fundamentals') {
-    return 'https://drive.google.com/drive/folders/NFE_ComputerFundamentals_Link';
+    return 'https://drive.google.com/drive/folders/1zYnPHIzeDtO8KC6zYRQfokSmkFo6hNVw?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Human Nutrition') {
-    return 'https://drive.google.com/drive/folders/NFE_HumanNutrition_Link';
+    return 'https://drive.google.com/drive/folders/1t2VTG0n2moQeBbMhIpvpU_iYOoMwbxmk?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Physical, Inorganic and Analytic Chemistry') {
-    return 'https://drive.google.com/drive/folders/NFE_PhysicalInorganicAnalyticChemistry_Link';
+    return 'https://drive.google.com/drive/folders/1NbTerRyUbaCPgFOJ6fnChzU3Tp5uPYDB?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Introduction to Food Science and Technology') {
-    return 'https://drive.google.com/drive/folders/NFE_IntroFoodScienceTechnology_Link';
+    return 'https://drive.google.com/drive/folders/1bSdA9dpU6KQxfB6Rj016Mgi7NrgzMbPc?usp=drive_link';
 }
 if (department == 'NFE' && course == 'Art of Living') {
-    return 'https://drive.google.com/drive/folders/NFE_ArtOfLiving_Link';
+    return 'https://drive.google.com/drive/folders/1QqMKs9bYyPXvE2KcR2_rOdLBOf9rlCCK?usp=drive_link';
 }
 if (department == 'NFE' && course == 'English I') {
-    return 'https://drive.google.com/drive/folders/NFE_EnglishI_Link';
+    return 'https://drive.google.com/drive/folders/1lC7D2FAJEAsqnBbeQOzFuL3fC-JxNZWb?usp=drive_link';
 }
 
 
@@ -1266,290 +1266,290 @@ if (department == 'NFE' && course == 'English I') {
   // bba
 
   if (department == 'BBA' && course == 'Communicative English') {
-    return 'https://drive.google.com/drive/folders/BBA_CommunicativeEnglish_Link';
+    return 'https://drive.google.com/drive/folders/1gjbeEYaGTAj7pTpnlJTqcitU3u_Wl0sl?usp=drive_link';
 }
 if (department == 'BBA' && course == 'ICT in Business') {
-    return 'https://drive.google.com/drive/folders/BBA_ICTinBusiness_Link';
+    return 'https://drive.google.com/drive/folders/1g68XYE1-zQWC3qIqOPGl-uSREF-f8lqB?usp=drive_link';
 }
 if (department == 'BBA' && course == 'ICT in Business (LAB)') {
-    return 'https://drive.google.com/drive/folders/BBA_ICTinBusinessLab_Link';
+    return 'https://drive.google.com/drive/folders/1QN6gkethYPH5pm_vIk3ibXLxMMOoSs4q?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Principles of Accounting') {
-    return 'https://drive.google.com/drive/folders/BBA_PrinciplesAccounting_Link';
+    return 'https://drive.google.com/drive/folders/1rpyZC8U5EdaX020Bz2e6viN2H4ZLGV1I?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Introduction to Business') {
-    return 'https://drive.google.com/drive/folders/BBA_IntroductionBusiness_Link';
+    return 'https://drive.google.com/drive/folders/18AjTW_oMg_UpxUpiXbBstqiLXn9bbiu5?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Programming for Business Analytics') {
-    return 'https://drive.google.com/drive/folders/BBA_ProgrammingBusinessAnalytics_Link';
+    return 'https://drive.google.com/drive/folders/1tlf7xcEQIGAZXP8iMU1qTSByJUqjGskj?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Programming for Business Analytics (LAB)') {
-    return 'https://drive.google.com/drive/folders/BBA_ProgrammingBusinessAnalyticsLab_Link';
+    return 'https://drive.google.com/drive/folders/1-9H8imeoNKHQ3KZvoyVFAaJ_R606bOSQ?usp=drive_link';
 }
 if (department == 'BBA' && course == 'History of the Emergence of Bangladesh') {
-    return 'https://drive.google.com/drive/folders/BBA_HistoryEmergenceBangladesh_Link';
+    return 'https://drive.google.com/drive/folders/1qBb6DhbzVcR320eSgbN_WDN0lvODsriO?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Business Mathematics') {
-    return 'https://drive.google.com/drive/folders/BBA_BusinessMathematics_Link';
+    return 'https://drive.google.com/drive/folders/1qeD-ifO8wWCd5yL1tTs2E8eMfttxZOnA?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Principles of Finance') {
-    return 'https://drive.google.com/drive/folders/BBA_PrinciplesFinance_Link';
+    return 'https://drive.google.com/drive/folders/1a8hLWxNUENx0Lym1qYLjhIiPgHbbudd0?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Principles of Marketing') {
-    return 'https://drive.google.com/drive/folders/BBA_PrinciplesMarketing_Link';
+    return 'https://drive.google.com/drive/folders/1Q3aL_u-K-hJ1GJE5wvSXU_RluB4Hjg7x?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Principles of Management') {
-    return 'https://drive.google.com/drive/folders/BBA_PrinciplesManagement_Link';
+    return 'https://drive.google.com/drive/folders/1DyogRt-bYUr8XgGi2ZhF4H7wrSABtibK?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Microeconomics') {
-    return 'https://drive.google.com/drive/folders/BBA_Microeconomics_Link';
+    return 'https://drive.google.com/drive/folders/1L4DUM58FIhvQolRPH3TM3WeebBmE9EmH?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Differential and Integral Calculus') {
-    return 'https://drive.google.com/drive/folders/BBA_DifferentialIntegralCalculus_Link';
+    return 'https://drive.google.com/drive/folders/1pWdMrA9y2EJtVXDsBN6l5J0kgiWepy9N?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Business Communications') {
-    return 'https://drive.google.com/drive/folders/BBA_BusinessCommunications_Link';
+    return 'https://drive.google.com/drive/folders/1vHjMbHHFNdss1VCInaHagBQBui1HdEfc?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Art of Living') {
-    return 'https://drive.google.com/drive/folders/BBA_ArtOfLiving_Link';
+    return 'https://drive.google.com/drive/folders/1_eqLCC4nX-wL1Keb81VvCoAR6mNj8MKe?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Management Information Systems') {
-    return 'https://drive.google.com/drive/folders/BBA_ManagementInformationSystems_Link';
+    return 'https://drive.google.com/drive/folders/1LKXYx7GIoKUt9N7BpFRV68jVYAjujPpg?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Management Information Systems (Lab)') {
-    return 'https://drive.google.com/drive/folders/BBA_ManagementInformationSystemsLab_Link';
+    return 'https://drive.google.com/drive/folders/1T1zYJkIWl0jkSCUlqu2UrX7AQ32cGThL?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Statistics for Decision Making') {
-    return 'https://drive.google.com/drive/folders/BBA_StatisticsDecisionMaking_Link';
+    return 'https://drive.google.com/drive/folders/1-rlTKlp3WkB7p7LNB0R1NsIj5StTA4vb?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Statistics for Decision Making (LAB)') {
-    return 'https://drive.google.com/drive/folders/BBA_StatisticsDecisionMakingLab_Link';
+    return 'https://drive.google.com/drive/folders/1N9PohqWoVatB-8FVP1ixTEhIsY-kamAF?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Financial Management') {
-    return 'https://drive.google.com/drive/folders/BBA_FinancialManagement_Link';
+    return 'https://drive.google.com/drive/folders/1fZAvdF7CSsGkzTg576o8uhfjQNkGACgo?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Organizational Behavior') {
-    return 'https://drive.google.com/drive/folders/BBA_OrganizationalBehavior_Link';
+    return 'https://drive.google.com/drive/folders/1akGqhbc_xwpkpi8Fpr9OZDo57b0aD6O9?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Business Law') {
-    return 'https://drive.google.com/drive/folders/BBA_BusinessLaw_Link';
+    return 'https://drive.google.com/drive/folders/1qPjyiR-DmSt-txO9NUQPz1D_ZiLXge4W?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Entrepreneurship') {
-    return 'https://drive.google.com/drive/folders/BBA_Entrepreneurship_Link';
+    return 'https://drive.google.com/drive/folders/1eSh5QVOwfSwlzbPnsXrnncDVvS7Ih8WK?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Marketing Management') {
-    return 'https://drive.google.com/drive/folders/BBA_MarketingManagement_Link';
+    return 'https://drive.google.com/drive/folders/1np8yPsnzCQcr-S0zX5VR6ZbMMFmSUjuf?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Human Resource Management') {
-    return 'https://drive.google.com/drive/folders/BBA_HumanResourceManagement_Link';
+    return 'https://drive.google.com/drive/folders/1O-pEqCnmZDqFfCjbqutVGgQOJZ5tcp6h?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Macroeconomics') {
-    return 'https://drive.google.com/drive/folders/BBA_Macroeconomics_Link';
+    return 'https://drive.google.com/drive/folders/1L4DUM58FIhvQolRPH3TM3WeebBmE9EmH?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Principles of Banking and Insurance') {
-    return 'https://drive.google.com/drive/folders/BBA_PrinciplesBankingInsurance_Link';
+    return 'https://drive.google.com/drive/folders/1IehmUCkGH8MsZ_BDMhHLMHZJZs4Z0B8C?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Production and Operations Management') {
-    return 'https://drive.google.com/drive/folders/BBA_ProductionOperationsManagement_Link';
+    return 'https://drive.google.com/drive/folders/1cMV6ilYvY1fPzUs0cWQvFzL5-89tG58U?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Cyber Security for Business') {
-    return 'https://drive.google.com/drive/folders/BBA_CyberSecurityBusiness_Link';
+    return 'https://drive.google.com/drive/folders/1KHcHu6UVWG2XpUM5vnmlQLLNtV_tgMob?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Management Accounting') {
-    return 'https://drive.google.com/drive/folders/BBA_ManagementAccounting_Link';
+    return 'https://drive.google.com/drive/folders/1hF1i0OOTKnrdU67djP7kTPTjU6b-h1nf?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Employability 360°') {
-    return 'https://drive.google.com/drive/folders/BBA_Employability360_Link';
+    return 'https://drive.google.com/drive/folders/1s-DRMR48naoonIhfYmlBeqWnD8UoQlRr?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Business Ethics and Corporate Social Responsibilities') {
-    return 'https://drive.google.com/drive/folders/BBA_BusinessEthicsCSR_Link';
+    return 'https://drive.google.com/drive/folders/1CC9Ia9lANiMkG2fEjqjaR2flc9IID53N?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Strategic Management') {
-    return 'https://drive.google.com/drive/folders/BBA_StrategicManagement_Link';
+    return 'https://drive.google.com/drive/folders/1pvr8-ndkv8Dt433Lz1Y_b8EycmWibnfm?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Artificial Intelligence in Business Applications') {
-    return 'https://drive.google.com/drive/folders/BBA_AI_BusinessApplications_Link';
+    return 'https://drive.google.com/drive/folders/1XJAa7YmGY1oKK4Uq7zG14fnj8NQ3k__k?usp=drive_link';
 }
 if (department == 'BBA' && course == 'Microcredentials') {
-    return 'https://drive.google.com/drive/folders/BBA_Microcredentials_Link';
+    return 'https://drive.google.com/drive/folders/1jPktfFG2HyFWEj9F1R7bcnPB90hA9quJ?usp=drive_link';
 }
 
 //mct 
 
 if (department == 'MCT' && course == 'Fundamentals of Graphic Design') {
-    return 'https://drive.google.com/drive/folders/MCT_FundamentalsGraphicDesign_Link';
+    return 'https://drive.google.com/drive/folders/1Q3MkgspRfAQ6NoHBEKtcyrqAgT1fzPnM?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Fundamental of Graphic Design Lab') {
-    return 'https://drive.google.com/drive/folders/MCT_FundamentalGraphicDesignLab_Link';
+    return 'https://drive.google.com/drive/folders/1fIw2xoMZcLsYQ8CLz3D1ISvkINpB2sIx?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Drawing & Sketching') {
-    return 'https://drive.google.com/drive/folders/MCT_DrawingSketching_Link';
+    return 'https://drive.google.com/drive/folders/1zGOGMFMgwWSazrxgVU75iaMxNHQ0yPs7?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Computer Fundamentals') {
-    return 'https://drive.google.com/drive/folders/MCT_ComputerFundamentals_Link';
+    return 'https://drive.google.com/drive/folders/1YXm-KT1k3Vkh1Vp2PuE55903syqlRsWY?usp=drive_link';
 }
 if (department == 'MCT' && course == 'English I') {
-    return 'https://drive.google.com/drive/folders/MCT_EnglishI_Link';
+    return 'https://drive.google.com/drive/folders/1893sbOMJaMpj0yL4ZwdPeeGT6YlvPW4n?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Art of Living') {
-    return 'https://drive.google.com/drive/folders/MCT_ArtOfLiving_Link';
+    return 'https://drive.google.com/drive/folders/1PrARfivHmckErppg86guZqSDB7JHA_uJ?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Bangladesh Studies') {
-    return 'https://drive.google.com/drive/folders/MCT_BangladeshStudies_Link';
+    return 'https://drive.google.com/drive/folders/1UI7_d_KiQzC0hQJhwgJrwiLezjKOiGT6?usp=drive_link';
 }
 if (department == 'MCT' && course == 'English II') {
-    return 'https://drive.google.com/drive/folders/MCT_EnglishII_Link';
+    return 'https://drive.google.com/drive/folders/1ZhyV-_dAAPOULFzErhfaQjRY-q5ApR5n?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Fundamentals of 3D Design and Modeling') {
-    return 'https://drive.google.com/drive/folders/MCT_Fundamentals3DDesign_Modeling_Link';
+    return 'https://drive.google.com/drive/folders/1xrxwkcL8nI83FJVCmtRuYeBLIhiAkrNS?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Composition Study') {
-    return 'https://drive.google.com/drive/folders/MCT_CompositionStudy_Link';
+    return 'https://drive.google.com/drive/folders/1jXpa4il86WsjmILJj0WvdTWHykqDNUlu?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Creative Writing') {
-    return 'https://drive.google.com/drive/folders/MCT_CreativeWriting_Link';
+    return 'https://drive.google.com/drive/folders/1byFNdS8zjr8h_k0tsuMaCvWUZ2hLN9dt?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Principles and Elements of Design') {
-    return 'https://drive.google.com/drive/folders/MCT_PrinciplesElementsDesign_Link';
+    return 'https://drive.google.com/drive/folders/1Dnkg4fXh75OeZv69K2OGePTxHVSxATZl?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Principles and Elements of Design with lab') {
-    return 'https://drive.google.com/drive/folders/MCT_PrinciplesElementsDesignLab_Link';
+    return 'https://drive.google.com/drive/folders/1YNAX5WMqJoyfAoVQskGvJBXKv-Xe0jk4?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Structured Programming') {
-    return 'https://drive.google.com/drive/folders/MCT_StructuredProgramming_Link';
+    return 'https://drive.google.com/drive/folders/1PZ_SMzlijmEfkySBpovUBqhqLcYqKFhC?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Structured Programming lab') {
-    return 'https://drive.google.com/drive/folders/MCT_StructuredProgrammingLab_Link';
+    return 'https://drive.google.com/drive/folders/1fO5XRGklfv145MGHEv0dHOIMFf0GO_HH?usp=drive_link';
 }
 if (department == 'MCT' && course == 'User Interface and Experience') {
-    return 'https://drive.google.com/drive/folders/MCT_UserInterfaceExperience_Link';
+    return 'https://drive.google.com/drive/folders/1Ghpi_upLhtK7OmYkyaSz2EUeyH7NZ1Rr?usp=drive_link';
 }
 if (department == 'MCT' && course == '2D Animation') {
-    return 'https://drive.google.com/drive/folders/MCT_2DAnimation_Link';
+    return 'https://drive.google.com/drive/folders/1GdAaiRzqg7lVCEcS-wSmMbPTtSCl3922?usp=drive_link';
 }
 if (department == 'MCT' && course == '2D Animation lab') {
-    return 'https://drive.google.com/drive/folders/MCT_2DAnimationLab_Link';
+    return 'https://drive.google.com/drive/folders/1phxQLrGAUUSJUZE93PqraUuZe5hBH95U?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Basic Typography Design') {
-    return 'https://drive.google.com/drive/folders/MCT_BasicTypographyDesign_Link';
+    return 'https://drive.google.com/drive/folders/1AbhJDajY7zntmMTbbkuvgE-jgZZywZUB?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Object-Oriented Programming') {
-    return 'https://drive.google.com/drive/folders/MCT_ObjectOrientedProgramming_Link';
+    return 'https://drive.google.com/drive/folders/1EvpwcVCWIHly3ZtMWC2cDIhGlNP1OTDH?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Object-Oriented Programming Lab') {
-    return 'https://drive.google.com/drive/folders/MCT_ObjectOrientedProgrammingLab_Link';
+    return 'https://drive.google.com/drive/folders/1ngB4Z2FUGwst0KRKL1m7xNlL_mMONBRq?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Motion Graphics') {
-    return 'https://drive.google.com/drive/folders/MCT_MotionGraphics_Link';
+    return 'https://drive.google.com/drive/folders/1IXUGk-M5Ze1ps5Fmn0gTh_NNHMRZ_tEo?usp=drive_link';
 }
 if (department == 'MCT' && course == '3D Design and Modeling') {
-    return 'https://drive.google.com/drive/folders/MCT_3DDesignModeling_Link';
+    return 'https://drive.google.com/drive/folders/1cZLe5-gc4brNruow-ar3rNtgy3Gjyegj?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Mathematics I') {
-    return 'https://drive.google.com/drive/folders/MCT_MathematicsI_Link';
+    return 'https://drive.google.com/drive/folders/1YSQKG9rp-jkvYm8WFOABBJjY6bnMBcrq?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Character Design & composition (Z brush)') {
-    return 'https://drive.google.com/drive/folders/MCT_CharacterDesignCompositionZbrush_Link';
+    return 'https://drive.google.com/drive/folders/1POMHGGc2KJmy6AmhCWUjABKJtZXAJvRp?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Film Studies & Appreciation') {
-    return 'https://drive.google.com/drive/folders/MCT_FilmStudiesAppreciation_Link';
+    return 'https://drive.google.com/drive/folders/1VB0cdPpkPE_fNtB193m5GkqGa187fazy?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Calligraphy') {
-    return 'https://drive.google.com/drive/folders/MCT_Calligraphy_Link';
+    return 'https://drive.google.com/drive/folders/1BOBF9ngHHd5oCXWsDZK75BK6iWewtwNA?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Texturing') {
-    return 'https://drive.google.com/drive/folders/MCT_Texturing_Link';
+    return 'https://drive.google.com/drive/folders/18aRI9eU8rk2prDM8_1itEud6yD0LXU4g?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Figure Drawing') {
-    return 'https://drive.google.com/drive/folders/MCT_FigureDrawing_Link';
+    return 'https://drive.google.com/drive/folders/12c2AR2JK-REPvBGfQN7_4Vb5nWqLfqhB?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Physics-based animation') {
-    return 'https://drive.google.com/drive/folders/MCT_PhysicsBasedAnimation_Link';
+    return 'https://drive.google.com/drive/folders/16-AAVij5pQFl5yZNz0DS7k8nnITFZXfG?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Web Engineering') {
-    return 'https://drive.google.com/drive/folders/MCT_WebEngineering_Link';
+    return 'https://drive.google.com/drive/folders/1VOWzWD-PTN-kArtXqb45ffz91WHMVujk?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Web Engineering Lab') {
-    return 'https://drive.google.com/drive/folders/MCT_WebEngineeringLab_Link';
+    return 'https://drive.google.com/drive/folders/16mDZlNR705gZQ2cEgNGGqDJQ8BUJiJMq?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Brand Design and Packaging') {
-    return 'https://drive.google.com/drive/folders/MCT_BrandDesignPackaging_Link';
+    return 'https://drive.google.com/drive/folders/16g19XkrwiP9jmgMcEQwHBrRwcDU3-oka?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Mathematics- 2') {
-    return 'https://drive.google.com/drive/folders/MCT_Mathematics2_Link';
+    return 'https://drive.google.com/drive/folders/1fnCG6SkCi7ZVvEyFw-OF2azjA49S25yw?usp=drive_link';
 }
 if (department == 'MCT' && course == '3D Animation 1') {
-    return 'https://drive.google.com/drive/folders/MCT_3DAnimation1_Link';
+    return 'https://drive.google.com/drive/folders/1rj8TbtXQwHTz3FOMPZ4-HuKdH6QNJfKR?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Lighting & Rendering') {
-    return 'https://drive.google.com/drive/folders/MCT_LightingRendering_Link';
+    return 'https://drive.google.com/drive/folders/11VGL4cSHDq6z7SpokPWU8fjDObzdiRCQ?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Lighting & Rendering Lab') {
-    return 'https://drive.google.com/drive/folders/MCT_LightingRenderingLab_Link';
+    return 'https://drive.google.com/drive/folders/1DQBcuVQ1X1hnB3UHy51h-oIfkmOudqks?usp=drive_link';
 }
 if (department == 'MCT' && course == '3D Environment Design') {
-    return 'https://drive.google.com/drive/folders/MCT_3DEnvironmentDesign_Link';
+    return 'https://drive.google.com/drive/folders/17QNPTLWSwPs1PhtmqL_Fe9ib9ndXLwbW?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Audio and Video Streaming & Editing') {
-    return 'https://drive.google.com/drive/folders/MCT_AudioVideoStreamingEditing_Link';
+    return 'https://drive.google.com/drive/folders/16eBzQ3Oe1xOxwCpw-47pp7ncVEi1F3sL?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Graphic Novel') {
-    return 'https://drive.google.com/drive/folders/MCT_GraphicNovel_Link';
+    return 'https://drive.google.com/drive/folders/1o1TJNi11x56NqVT4hrKjR6HbF4bIf0-U?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Immersive Learning') {
-    return 'https://drive.google.com/drive/folders/MCT_ImmersiveLearning_Link';
+    return 'https://drive.google.com/drive/folders/18nIEka5134xbEKzRlBKpgiBXNpcz93tV?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Script Programming') {
-    return 'https://drive.google.com/drive/folders/MCT_ScriptProgramming_Link';
+    return 'https://drive.google.com/drive/folders/1HwZ_0ciSL0BPYM6BzAc5bi371nF2UYmR?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Industrial Design & Innovation Technology') {
-    return 'https://drive.google.com/drive/folders/MCT_IndustrialDesignInnovationTechnology_Link';
+    return 'https://drive.google.com/drive/folders/1JCdu2Vf05d7pJGqCST9TmaPRTNMYJPXy?usp=drive_link';
 }
 if (department == 'MCT' && course == '3D Animation 2') {
-    return 'https://drive.google.com/drive/folders/MCT_3DAnimation2_Link';
+    return 'https://drive.google.com/drive/folders/1sRmSeNc9y4k5YMMWmbrPofOVtGG2dA5l?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Architectural Visualization') {
-    return 'https://drive.google.com/drive/folders/MCT_ArchitecturalVisualization_Link';
+    return 'https://drive.google.com/drive/folders/1O3U38THUF5s7jYAfxJH9jClqwr8Qtu4x?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Character Animation') {
-    return 'https://drive.google.com/drive/folders/MCT_CharacterAnimation_Link';
+    return 'https://drive.google.com/drive/folders/1fUN7CdFS63_hgTyP8QYkWwbHmC6P4t3I?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Character Animation Lab') {
-    return 'https://drive.google.com/drive/folders/MCT_CharacterAnimationLab_Link';
+    return 'https://drive.google.com/drive/folders/17gPayPihhbOXQPBSaDumk7IH1h5qAsDw?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Video Production') {
-    return 'https://drive.google.com/drive/folders/MCT_VideoProduction_Link';
+    return 'https://drive.google.com/drive/folders/1i-GeVSp4ZEAHTR74SrWINjCRtzRt95Er?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Visual Effects Production') {
-    return 'https://drive.google.com/drive/folders/MCT_VisualEffectsProduction_Link';
+    return 'https://drive.google.com/drive/folders/1utz8Wdv6HBZ4EQ3-_L6B1LBIAWkTFDGA?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Digital matte painting') {
-    return 'https://drive.google.com/drive/folders/MCT_DigitalMattePainting_Link';
+    return 'https://drive.google.com/drive/folders/1Hj7ougHaAu6TcsR5jK2i2C8oHDMrz-Ol?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Multimedia Authoring') {
-    return 'https://drive.google.com/drive/folders/MCT_MultimediaAuthoring_Link';
+    return 'https://drive.google.com/drive/folders/1dnQtaoUHYgwweMxRq9q9ar2Dof3CsKgX?usp=drive_link';
 }
 if (department == 'MCT' && course == 'New Typeface Design') {
-    return 'https://drive.google.com/drive/folders/MCT_NewTypefaceDesign_Link';
+    return 'https://drive.google.com/drive/folders/15e-pwu7THA2FcT8_gHsCO0CFOZmjOOvL?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Simulation and Modeling') {
-    return 'https://drive.google.com/drive/folders/MCT_SimulationModeling_Link';
+    return 'https://drive.google.com/drive/folders/1hK-pvjWZUC6yyN2doPW_HBiUKJCNOz7-?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Simulation and Modeling Lab') {
-    return 'https://drive.google.com/drive/folders/MCT_SimulationModelingLab_Link';
+    return 'https://drive.google.com/drive/folders/18tEcq8oiwWM25l85ZS9bxgUBml_-HsFJ?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Digital cinematography') {
-    return 'https://drive.google.com/drive/folders/MCT_DigitalCinematography_Link';
+    return 'https://drive.google.com/drive/folders/1OL5egKdvEZhRlFzI5FGw98j-1HQRkj42?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Game Analysis & Development') {
-    return 'https://drive.google.com/drive/folders/MCT_GameAnalysisDevelopment_Link';
+    return 'https://drive.google.com/drive/folders/1GDPMAsvWWE4m8ehgrcjwmlqyDPC6YF0V?usp=drive_link';
 }
 if (department == 'MCT' && course == 'Game Analysis & Development lab') {
-    return 'https://drive.google.com/drive/folders/MCT_GameAnalysisDevelopmentLab_Link';
+    return 'https://drive.google.com/drive/folders/1C6xuSfD_5T6M2kS0lf6R7ZtLJCZLf38Q?usp=drive_link';
 }
 
 if (department == 'MCT' && course == 'Augmented and Virtual Reality Development/AR/VR Development') {
-    return 'https://drive.google.com/drive/folders/MCT_GameAnalysisDevelopmentLab_Link';
+    return 'https://drive.google.com/drive/folders/120_EBag8_UQ710TuYvI6EyHxb0gTmQst?usp=drive_link';
 }
 
 
