@@ -1557,458 +1557,458 @@ if (department == 'MCT' && course == 'Augmented and Virtual Reality Development/
 // textile
 
 if (department == 'Textile Engineering' && course == 'Functional Bangla') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1f93M2Y7p3LQmN-i6E_4nYoGUKD50C88J?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Business and Communicative English') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1x3HU7pNK7C8_mwT5UzXkBu9ncziMwQn2?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Business and Communicative English Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1vMt0jlBZbSRdB4fIkcqPNizQfULP2EMp?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Sociology and Art of Living') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1GUsHvb8pZ-IZWn7sX2j7S2iJ5JD7K_Bt?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Mathematics I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1I6XcZGqKAx3hXlB0NawOTFZYYWALc8v1?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Chemistry I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/15GtzFaBVhPsRSceEc5JCTLHO6iwCbBSc?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Chemistry I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/17vps0m-ZCSzIr8SXTaIuhaHaqRY1cgIL?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Physics I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1_pqjt9djxnpBYSdyIuTpYdDE0fa3gQ5T?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Physics I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/11jWOvTgUwu6Jtw-Hs5ziwrBp7-Soi3ac?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Computer Fundamentals Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/18i1L-5tdRhvIhmlLTWKkcS5QEgX2ayaB?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Introduction to Textile Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YvwzPL6hIe73Xrt1UOexrQzIkUYGSNLV?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Mathematics II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1JbHmSlJZoq5KgJOnWYT90m1AETXay-KI?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Chemistry II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1P59px29ooZItjFEjjmEE4zcF4EsGEA9w?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Chemistry II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1yvda4XHBZci8TFg3z7xc1V5WSn8rjmmv?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Physics II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1dHDaG0IHpU72sfqOizUNF4NnWQXTiG81?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Physics II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1iZbPBwXxR-2g4zNwDK3YINqTwU1A3WJk?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Polymer Science') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1j7ODsL1XJuDa7ZMvha3BTI4rnqsN7GJJ?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Statistics and Probability') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1dOGuT3S055Uln31yAtK4JuFpVPCuGz_F?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Raw Materials I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1XJ2Hc-tcRlSQiep29zNRT7j6mewNpEPc?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Raw Materials II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jtKGCIT4-JzFf1pucInGr4aViij7-d2M?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Bangladesh Studies') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1LFijx1kMS6-WF8kUQpxLhf730rxBB-2F?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Engineering Materials') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1okBtZhaU5ttls355m3nLbxfKwW5U42Nh?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1C5BDgodTQrQGDDjAU3eqvcFH1S5Hut9-?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YBBkh1N0dUdocsK6_eHLAydo0nSx5Yse?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1t-b5N5pscZsH6ZiUGo7UkXP92rZjKuuA?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1uWb0-49OHdfSJ87Se51TvtON28NfZm3t?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1GO7cW1CGUtqs0aOiFxU9Qnw9v6DyaqJP?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ZkKryzNqGYk8lSR3b1_G3DadymIDnXId?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/17THVdfLHXcUaRxx1sdv6p9Ahm08P7b3m?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1wf5PkSj-4DqVqDqyT-5aTky5LpeyhfX3?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Engineering Economics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/13kxpo5LWtw8S4oCxE8t-15_Mb-ufujZL?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Basic Electrical and Electronic Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1vsAvptIPk0tnv-eJ5MSLKxrhETxmZ_xK?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Basic Electrical and Electronic Engineering Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1BQ-i1FaMhOBU2FaBxdjlvJpoLmgd1Yuq?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Manufacturing Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1doPRBUMxPdEGVp1YpaIKVukm3ZW-2dbB?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Manufacturing Engineering Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1dUOTH_5ZlhVM_gjKxypWkuhY8-Va_1vi?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Engineering Drawing Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1voo57NlYu_cYRzAeiToNm3SRaYLRVXsf?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Physics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1vx9wkfYBDMgYYOJIDLiBH6saJRtQBv_d?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Testing and Quality Control I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1p5bjs5yY6Ium3XwWe3xdRq1qfjaMTh4Z?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Testing and Quality Control I Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zqmrVI5OxpofpRszWXTIaSFHcAheXdXN?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ehD0LjocYxmkEEbmzch99xvrEn6Kgn_G?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nDFHdpPvYiC1nAzp0V3XQD7RYAESl05l?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Industrial Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KQFAD1S9rPDJLxp7qOzucPxkT82MoNcH?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Accounting and Cost Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1n5V7qc2lwKMHlhG48P1zEx2ZMwLr2HmM?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Principles of Marketing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1LLxLViH1ucNe334kU6bcUO-0ubFQUMtL?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Elements of Machine Dynamics and Design') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1xBX9wiAYIEUuXAIelqeL0HPA6zZkKTN1?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Automation and Robotics in Textiles Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jh1FYtzTDL-dwcbCPCJwqM14aXP1JA3r?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1bWGSseVMf9aJk5MEIKaOlBzvtIYJTnQz?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1F8N2gmV1KATEhar-Jmpwt8cS1Uu2mh1b?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1g_ALIg3HwmBemGXWvKL4Lt-vue7LLZFD?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1qMZCNgff7CIDqhIm7_K8c-6fRVKE_9hS?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1xdFJgnEa9T3kDIQu_O4tb7TBZfh-yhbF?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1-HJrm5XEMuJOOdJJ1xPctdMbwaGtK6m7?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fundamentals of Research Methodology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1B7OHDanoXrx5DmpgfYKCmho3oiBKX9fR?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Mill Utilities') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1spxWZ0c12CrXVCkIz9I5xplFyzNSaCkK?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Technical Textiles') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1GqPW3sDFdWj-GJVCuz0nd8um_CBGkahf?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Merchandising') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1keZjaOxcRwksLiZB70V4g4wBIdjTXrGA?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Design and Analysis') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1CviamzrSjmRgxfKdNLGcwbeQGuV46PP5?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Design and Analysis Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1XJNrH7NFfbPvcp9WWMoVEkFxeeLRPW2s?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Testing and Quality Control II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1tVX2NULtfdYcS8HptV0klXyK3dvEmiA9?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Testing and Quality Control II Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1tF5yNyK9wC-t77UQTd6aHCJr6W9uF8d-?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/16NFuj75PGZBQ97S8283SVwH6l4-F_EGQ?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ujnL1p1smUQKaq5AVSmVEaIBteWM52Ld?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Hc6E1Q0ejSGBCBS-0CCgDO7tiF63XOa_?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1gVYLEMTLy9naD0DX_n6a6QIryRHHbNNA?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing III Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/18a0GonkSSTbhY8f9lgj_wufa9tKtL_9K?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing III Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1wJ8a02G0Exv0JjySZ72nWR44a8R2vv77?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing III Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1J5r-FJkK8uU6_dvjqzkdkwLkORNEpQFP?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing III Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/10LSxtgE_GnxjzdlQTieTjqxOVwkTw6A8?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Capstone Project') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1en_GgUOuSvpyutllHnKpoo_ArXbgCW9N?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Employability 360° Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ptln0dHp85d-4_2xkXwKeI1-GgP-lCMF?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Production Planning and Industrial Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/16iXafTMxBohjvYDYndp47ozr45RC8l3V?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Sustainability and Environmental Issues in Textiles') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1y0Sglpn-MRFKSU5mt1oKmOJlRPUHdvs5?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Textile Testing and Quality Control III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1e7kmy0Yd0_WWQ1HmHWvNfUhd3Hn-vg9A?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing IV') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1III7gr-H94QZiqW2__L_0kYJjCL4h52g?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing IV') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YwNZUFZczziuYlQSx_R1H6vCQCntwnyc?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing IV') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/18FLUNWDZY8CaK7IKSPR1bWDzbeGQWKsR?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing IV') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1vcj6t5_NRJav7homdsGfegTJtloSAdj-?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Manufacturing IV Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/17bmxUc86c7vQxT32ESfhh6drUkpwodb1?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Manufacturing IV Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1byruvu-x6gUdV42cydEzkuOAzfmPrfBd?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet processing IV Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/11TIpk1VwZOWLMzuH63IZLxcFNYRQJ7v3?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Manufacturing IV Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1oh4wbT_QM4AjTl5FyrJBPAWX4YlTjE4T?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Special Yarn Production') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1j6uQQLciMiNMw1_-Bb_qIEed4aV4bJKu?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Special Fabric Production') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1v9r4Q_ymigSQEuD6Ltcql5uCzTaNcVEd?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Special Wet Processing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1PKQv6JIvWHWvm8lC9IxEU6vemErPnCbI?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Special Apparel Manufacturing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1U0KTTp-5Svos9O9SV3Gl3z-CL-7zLFbv?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Yarn Machinery and Maintenance Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YBBkh1N0dUdocsK6_eHLAydo0nSx5Yse?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Fabric Machinery and Maintenance Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1VdpbTyi3Tgu9dDVNNgcGDyD2KHEgCbzc?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Wet Machinery and Maintenance Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/192VEhhi1Qw1tt2UNiqOeqAEjoASnf-3R?usp=drive_link';
 }
 if (department == 'Textile Engineering' && course == 'Apparel Machinery and Maintenance Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1iNIratEVQsTqKaLhVeLdjcuzsqj8RX3g?usp=drive_link';
 }
 
 
 // civil
 
 if (department == 'CIVIL' && course == 'Functional Bangla for Engineers') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1IIVFM_LuDLTbCDd-v3jkwMXSxZn4_kZy?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Engineering Mechanics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/12Lr08TPP1ON52qMimOXU5pw1H1XQWG0r?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Chemistry') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1g7i_XdYmVmUsx8R22_x0MOBTAgaUxv6G?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Chemistry Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Msd63ZAcvBCmtEzpVwvPQK0KjtJGkhmC?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Computer Fundamentals Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1CB72b9OtPN_Y8XOpOXTvW49aJoYfZQLn?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Professional English I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1f9BC96iSO2n_SDknGG-AMEIf3AZjDHG_?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Differential and Integral Calculus') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1m_TwUWY6OzmF2dCB_JLnDvWJyaWKJp9Q?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Physical Optics, Waves and Oscillation, Heat and Thermodynamics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1twoD1OnaVLWSJhZFHuAWQyMNcp_bey4N?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Computer Aided Drafting') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1fqBtVtC9bqxmyrVwPFP7j0vpZZaI5cwL?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Surveying') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Q4wizu2rlm_n4LCNq-KIScrclnb36MoT?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Basic Electrical Technology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1oWvuF7bhbvDlLxHRl_EFsGfuajDTtGWq?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Professional English II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1rsTBDZ1NTL8rRI7k9VwW867iT9iPxW-S?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'History of Emergence of Bangladesh') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Rqa7pwtcqGd6oMT8hBWOkERSFmPqAqJR?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Coordinate Geometry and Matrices') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1cabILzFpCYIgRcomrcMk7VaHl-pUB00c?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Physics Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jY2YnBRF1Hkxq6ti5g1gi45J_xOautEL?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Structure of Matter, Electricity and Magnetism and Modern Physics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1MCiYBTvWEv7eMX_XRpi1rJr-KSYheMNv?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Engineering Economics & Accounting') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nLyUl4789MBe2bW5OctR_tzQNlQ-EAbK?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Details of Construction Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/10ufPvhYuTuKSOdU8pBaAFl-DkM8383_Q?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Engineering Materials') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KVJ2iaXjmHVHDfjsRGP7ILcP89rf5qKf?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Engineering Materials Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1fxYfzShkoT-nVblPcOBCl-Jfmbc7-3tK?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Practical Surveying Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1fdD4jLMSmnt2QEy1QhP4xKIR-uOmQWlF?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Mechanics of Solids I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Xc2pwqS8e7dx-bzqQV7H5E-zxtp11xlx?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Numerical Methods and Computer Programming') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1VdoV3oZuDFiG1BGWd4LhFD1zeFPeS8Fv?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Computer Programming Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1HOB91ydQRrG1NHIx5qki-xP74LS2h0ZP?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Professional English III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zUxsOa1-FP6lt4NTtjmWU1p8CmvJUUTW?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Vector Analysis and Statistics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1oFKGL7vHHnabmWsz1FXMAKY5uRTmET2p?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Engineering Geology and Geomorphology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1HVy9sgLqz2CNWRcGcZRFC_3ITTRtYIkr?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Fluid Mechanics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Upb9H9XO3hDHgY0hOm1IFziXQ0bah8lo?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Fluid Mechanics Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/16FhPlXTUFb47c77l81NVINwOi1J8gLsT?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Art of Living and Engineering Ethics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1sQXORO9CgdhhDpY27mKHhpsnqTRMhFbf?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Quantity Surveying Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Y7YtMeUAWYZRS99DcfWKwUZUytV8ZUS6?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Structural Mechanics and Materials Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1UL5Swgb2m2FWVO5p0RqXSlraeXns0pAj?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Mechanics of Solids II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1UoA107Cu457JPFsDrekkNf2wtdp2ePKv?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Engineering Mathematics for Civil Engineers') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1rfAgxkneO8C3677eaHb0_ITR1De54V3p?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Structural Analysis') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1T-bjXL__CiiU773qo4c_wxQkGyjxmdh0?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Design of Concrete Structure I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1wZqICoy9ToY-C6SJFa_KJzF13_-317HP?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Principles of Soil Mechanics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Q1tkU6pTEm6--Y5mdl_aa3aC7dX5Y4_V?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Soil Mechanics Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1LabK5uyOewXMchwIZ44MT4MphJCeODUf?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Water Supply Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1wjzjYxxqOsoAJN26qlX_e35JBeeMFbHf?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Water Quality Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1mUQcQGCMP1mLu9WdY8dhbjsY2HUB52Ou?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Transportation Planning and Traffic Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YnfWFZ5nZZGiLH6uKf6xuxhCUV7mvaEX?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Highway Materials and Traffic Engineering Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Fr_nce39L-YHkyJHJzjBCpDubWsmSrNu?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Employability') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/10k88Bk4F8jwrK4WooUWukAyfNIbeUSXa?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Geographic Information System (GIS) Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/141fNv_4yu4onxrvY7OhIP5yA7VJB1Vat?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Bridge Design Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ofNm_AFgrbuQo4Ja6STIqM2CAWvZ1AWQ?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Design of Concrete Structures II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nexr89l9g01GtNCa9JgBNHjEcywLkJPO?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Analysis of Indeterminate Structures') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/15vdma_Wfy6Mr-oppD3vR65srz-0dCqDs?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Open Channel Flow') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1bMUsBHaszNRQQhHgeqpX7X-x_FP-g_GS?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Open Channel Flow Lab') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1dfmO0RIixCpcM4dnDx7jmXprwqDNxqea?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Foundation Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1fYR3wJJc8djXYJOkznm1Bk12hoew_rw2?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Capstone Project') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1oY8tVuOkQMxYH7QqM64UH1-TCrc7dZYp?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Industrial Training') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jkWkotjVL8JId4wjdjN03Bbz7SUudac9?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Design of Steel Structure') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1sdlq-FZegIjBq1ju7x8zu44aUFbinbWY?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Building Design Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/152ICAQBsANAYpMY01cKpmGb1EdzKzs7i?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Wastewater Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Oz3_ISF3uRuiETn9V94bWyhOCCIfK1zV?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Pavement Design and Railway Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1sgwPfVJqGJvIVVOSSXQCm17xTl1ZzvyQ?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Technical Electives 1 (Major)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Fy3HtjwgXD_EaJHDc4hzxtrkQj2qT0YZ?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Technical Electives Lab (Major)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/19UkiegbXXCaWcxaDlOHQ7xFLr33NoS2c?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Project Planning and Construction Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1GB46_Z6J-RwcVSTPSLIziK6fkRn6gugN?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Steel Structures Design Sessional') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zwQyi0ZLwZLsAPIw9baK8QoXnjUtvsAg?usp=drive_link';
 }
 if (department == 'CIVIL' && course == 'Hydrology, Irrigation and Flood Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1IigkYJk0nAKTAQPixJukpl7cYOJvp8LX?usp=drive_link';
 }
 
 
@@ -2017,450 +2017,450 @@ if (department == 'CIVIL' && course == 'Hydrology, Irrigation and Flood Manageme
 // PHARMACY
 
   if (department == 'PHARMACY' && course == 'Oral Assessment-III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YeMCHzoKfb42gFDpWF5HVqmRafsIGFEk?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacology-III') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Cay7-IzM_nWFZCz_RfTdQiTu15Yczgd0?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Biopharmaceutics & Pharmacokinetics-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Y_LTyluxpW9aL9e9bwF4JxHuUMp7KsXg?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacognosy-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1DZ3eUkuv0g7DpNsa8DZY9cHhCUQZD84c?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Biopharmaceutics & Pharmacokinetics-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1NU4ROstunjXDfdJ5unH7sR2U64p2kv-O?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Marketing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1i_mKW9PGZNkGhTvUILIJcl_VEmCG4v93?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Technology-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Dj8OM4b-UzJufpx8NI4ynldxICtzr0Zw?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Medicinal Chemistry-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Go5XG2yS7JsC239E7Bp3m6MntYvk_2Kq?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Technology-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1_xvMdiaNZ6yYBPhStpXUsFZTErQGuIP4?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Clinical Pharmacy') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1LYtUJZoH6BNuj5mFe8GqJTXbNP7O52Tv?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Medicinal Chemistry-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1RprbCb5oWW0DVxeQexNW1L0VHpvECXMs?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Hospital & Community Pharmacy') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1T5rhksYh2usS4WzpQ6Wwn71-bMhx2HUD?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacology-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1wY51ITOrf57g4LFbET5-pvjC3n03lZHN?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Analysis & Quality Control') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zcrUAlCzOE6KxtWdG9X5gXyQcvsiErMU?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Technology-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1346rGO03Fd4cRRMJAWVeUUEcsBs-VnzX?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Analysis & Quality Control Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1rebFhg8ai8Q1n9CIQ1rgJ3JFMMnmKFEi?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacology-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1n-bt9VEVgdtv2dTirVcS4xpD9aB7cbeS?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Medicinal Chemistry-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/17OEHUZmUQ94MCWBOo9HKwRC9O-VJSJb3?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Oral Assessment-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ZWnFcKvIGGaqUltAqj7eQrPQ8afycBdN?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Analysis & Quality Control-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1iWqQgV9dDJKxaaq4JTdpichtxCaU4ASv?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Clinical Pathology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1LYtUJZoH6BNuj5mFe8GqJTXbNP7O52Tv?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Microbiology-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1sxiw8YFV4eysW7LvizsUJ94Lr64QQT8F?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacology-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/13eG2Z0Cgyfkaw4CtaAjVmVpbdpCdVcpz?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacology-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1H_-mxCPC4liZ3RXQtLGZAoIFpuPZ9rbY?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Bangladesh Studies') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1h59ubrWgKWyywaMxrLLZim7mwVTElpEl?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physiology-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1yXRz5T-Gz7q4EUtm1Io3_87FbMFXkBep?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physiology-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1slA-ygKHw8qDc8TeSdBFPGs8sX4pogRp?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Microbiology-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zwyBKYaYlO3np45P6zeuCkoMU0L1CA_l?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physical Pharmacy-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1bVAuvbLE_9LPy23Ju89pp9JiC3B5cpjX?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmaceutical Microbiology-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nqEj-ofQTV54zQm2Pm4lOGd_s9dLmzwK?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physical Pharmacy-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Ex9APQ9vqMlKyJqPsCQvTZx8VmbvVkK0?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physical Pharmacy-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1P4qX21BUZvkrP8prf9V516VXF_quDMFE?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Organic Pharmacy-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/17qOIdxEnLT462N8sR1NVB1ANBfb2HUDy?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Organic Pharmacy-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1xCG0aGMEZW5ZNRtsIY3f6FFjewiq0PQg?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Biochemistry and Molecular Biology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1axXePez5BWHHXekcYuG-VXGEgLzEifS_?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Biochemistry and Molecular Biology Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1dO9vgpZxPToNwzDg-o5wVHc9E29DvYTU?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Oral Assessment-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YeMCHzoKfb42gFDpWF5HVqmRafsIGFEk?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physiology-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1qeNTEgyyNMCKkuWb69dJAsyAkwW24zM0?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physical Pharmacy-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/146DrXxCaf6yxrMsuPVuHVJ-ADxRQwzjG?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Inorganic Pharmacy-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1uGndrLmX7wDiZZn0EjLRj0HIY2LdSaON?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Inorganic Pharmacy-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1RO7B5WaOvcPstRVgd3bHy82_ZnOdoThv?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Inorganic Pharmacy-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/174dNDyzzUVqOWjD1tEGls-ooi1bZnYDv?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Organic Pharmacy-II Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1c9qzu59efwc7bU8LZs5FdHUAB_p52pIK?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Organic Pharmacy-II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/15hvN1r71MdtmRhh6rdcx2snV5wXzHhRY?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacognosy-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1d4LDWj3GwLMkAGr3gDUg8L_VYdQvaChe?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Basic Anatomy') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1DS4ZRbCP7H77vbtGLyBqK4mUV-HGn6sN?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Basic Mathematics and Statistics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1JFkU0IZ9HVJJ_yMzzCGxr7FiO71yAwBy?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Computer Fundamentals') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1MCppuhdM7KH_I5fBVnAExnMtJuh67Olg?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Inorganic Pharmacy-I Practical') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1VlMGUGkhP5--A1houh5rFeYkuOhr5s24?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Pharmacognosy-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1p4XuKxt2kFjneZ5GxsZkWO4VqmqolPz_?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'English Language') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YBGVZ73xrBwjvkeCEw4qxJBxEzC-7Ktd?usp=drive_link';
 }
 if (department == 'PHARMACY' && course == 'Physiology-I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1OWxazUr0ehipsRXJ69QOSpShlE5t7CA-?usp=drive_link';
 }
 
 
 //REAL ESTATE 
 
 if (department == 'REAL ESTATE' && course == 'Services Marketing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1E_bVOstuZ81EGSRhzebes4T0fRE-KBGK?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Residential Property Analysis') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1VbcSUVWnElksMynzHGQLjjXsxHfsvWDd?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Marketing Research') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/10iH6Y2oEMYejPLtIpGSwGGIXBd6YIzKE?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Marketing and Brokerage') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zZoAV5vUKc9H55r--uW76ufE-NnYI54t?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Urban Land Use and Development') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1rZ_TuGkx5Ejk6NPVOuCteZCTlWlM5QE4?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Geographical Information System in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1EeMzGcj4LjQWjt81llVX5XfzGOlDF14a?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Marketing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1AXnv5A7TL4JyAYtADbY-SN3mksnz2loa?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Global Marketing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1pHadjEY4GdJFPGHRBaZnXZu_tG7Zdbbf?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Research Project in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1WFqnvrh4zeXtIrJlbFcFrvGCll20OxcT?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Digital Marketing in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jPuqMdSVyKFTHHD1fuea1aUOpVfj5aM6?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Urban Hazard and Risk Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1JgKfUCmsieb-iOY55vqHtHnC9tbamVDV?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Marketing Communications') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1kV_EccKg1L7AR1UI6MIYoJMYtXBS3okB?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Employability Skills 360°') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1tubzzkKa-iMMVWGwiTewQ27jQUe2SkXD?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Sales Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1u8Ggm2ein-So_9kVOuJuChfA98H0tzFP?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Human Resources Management in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1gtrATJNNq7dFjVSrImOjeeouqnLCjJ-m?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Environmental Issues in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YBQRrTknXyB1ljWgSOnki1FIA_jrTKuh?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Project Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1r_9jVxQqRONs2ZK_BxC3XufavFR7LZ1g?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Building, Construction Materials & Modern Technology in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1HechV78Ea9Uwjkbeyu4uzmAQ_36ZCPvl?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Auto CAD in Real Estate Design Part-2') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1GxmTwfxwRRBasiq4RC3PT-YsO7IXsNsF?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Supply Chain Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nI0hG8eL_H-RkaZu96iE8mTkSHzw7wDW?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Contemporary Issues of Real Estate in Bangladesh') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1hpi4uMhsF_g6h6VigQ89fTr-cDIE6Di7?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Law & Public Policy') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Jgpg11eomFfqv7YU6bgzEuNT9hOlu35u?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Auto CAD in Real Estate Design Part-1') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1gm7S8ayYEVqUaaE-EpE12QuIv1K2pUC7?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Fundamentals of Civil Engineering') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1M9QNZf8hyDFWgRVW7tdyg72B3JxdICLn?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Urbanization and Regional Development') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1TinSLodzA3qZZTe_Dq_QoS4Ax7el_MyW?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Fundamentals of Housing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Zz4kcGCCLX9kkgzMDXo0N504wOJ7zs1c?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Financial Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YbmgfpyKtLG3xanJFVg97WzurRzvo4sy?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Statistics in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1DnxcaESGqEWMZoTK8c5T0hQLm7MDRMfV?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Economics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1z-rxr4sZDZPuPsj_Gag10Zmmekg1-dnj?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Architectural Design in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1niLyNDYAuGzzS25r5lx0rB4fUhqnntZM?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Principles of Marketing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ezoFc4Sjs3RqfwvbaKHnY4CoTYOV-hWg?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Fundamentals of Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1A4xoITydGsZL3_uNQS0HJsxe9rSGSJtR?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Art of Living') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1lMqcf_yIYHm4_nCF9nNOSffaFvME_Cqb?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Business Mathematics in Real Estate') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1QBn1E0asZtq7sehPfTg4_QEOWL-w0zLG?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Real Estate Business Communication') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/18cVXqW2HfvIAjVdd7y_3BaMdV0dY-2IQ?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Fundamentals of Accounting') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1UdfCiHDHB5A2-sbKY93GQ_YCPh2Pi8aL?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Introduction to Computers') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jSap7JYzk2fG8tBc-OxBpZjEeFqEMRBi?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Basic Functional English') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1PFWujr3tOxAKXK5YTgflZLFsF1LAKZNw?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Principles of Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1t2Ug2ZOh_QYjbjGd4IzhO7wKVsBXYBmB?usp=drive_link';
 }
 if (department == 'REAL ESTATE' && course == 'Principles of Urban Planning') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KK7ngw6DwdzclCEq21cEB_lnd1waz9g8?usp=drive_link';
 }
 
 
 // JOURNALISM
   
   if (department == 'JOURNALISM' && course == 'English I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1sUQVnoL1D4xNEwfEm4idZuKCK56lTP9U?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Computer Fundamental') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1-_9F3uAlfYSK2TQ0VxEPacVAtbvoLyxL?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Computer Fundamental (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1vqH_vNqxeZwrqt6gChOT64NAeocJHStB?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'English II') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1FFBVKJN5qLVWL1LHBBnw18rDKxdYwI-M?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Art of Living') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1MaLRMnSmOhyv_RDsSwq5dU3wGUrCE9jF?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'History of Emergence of Bangladesh') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1sxZsvbokVFffw-c30mFd8vYjf_a_KP-o?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Bangla Language & Literature') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1DFKdMr-JAmbVzzeF5p7sMlJuluQwdJGe?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Employability 360°') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1EP_H9EdOjEvcvXWO6030aQIioXRAsnTN?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Bangladesh Studies') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1tqGJ3ggnCUvjbFsqN90_Zst_NeuunumL?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Statistics I') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1hDtsgkvm7Jcn2Fo15w737elhAjfBagZZ?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Statistics I (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1hbVx1A7A-755902XZSxr8dBw6xW-5XOZ?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Concept and Process of Communication') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/143odouOnXo_f5FkPAltXNRKk-58HK73W?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Bangla for Media') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1LzIQUcaN_IBXTifaIu6-beH1nPFvaJ-p?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Concept and Evolution of Journalism') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1O2Noj4V5pd7Xup1AuZEYxPyw6b03in1n?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Photojournalism') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1j1PFVogZNy4YnVIAoaUvAFsOEbrPR6Y0?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Photojournalism (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Lv7XxjfX7fyzVhU8FmwwjIkhu3GYLAec?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Interpersonal and Mass Communication') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ZFr4j4whwXq1Bs4YTki2P7a2-_sULKsA?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Information Gathering and News Writing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ZapN5DrqdKwGh9cEJ9N-tOXN-S4B5MyM?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Information Gathering and News Writing (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nyEnOrDxhSOW30L9rBP7W1o40yZJ3pQH?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Video Production') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1g0DdAs5w5RIxCxH9pKMK8VhFGDRPWXAt?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Video Production (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KxmniQve700yy_V8TikTIeHxwO0vwb4r?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Convergence Communication and Social Media') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/19RHitBrSfyue8nDl2z7CQmlZpz6o0lL5?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Convergence Communication and Social Media (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1nLN0RHxeAdgY-RNcknRVniDqTKIaEzs1?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Bangladesh Media: Laws and Ethics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1FRHFXxtjJsIXHvKojOSp3LUR3FgPVBkD?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'PR and Corporate Communication') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Q56UW5g5NLIIYuek_Kd7Dqh9FLNz5Y3q?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Media Management and Economics') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1ceqvde3-n8dYVx_LoRn_U9O2giigmglP?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Radio Production and Sound Design') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1xFRLy4V62LMrsDwhyE00QX4n9SxJFDn7?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Radio Production and Sound Design (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1S1NPpKDolFRtmDvbBnjcT3lVXc3p9HVQ?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'International Communication and World Affairs') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Hv5KI4WM8kOOFGRLdbDmHAyzbRdSe7Q9?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Sports Journalism') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1pdWHRj_nWNOIVAmFu7F7E0Lm2Q8Fudgl?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Events and Entertainment Media Management') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/18kfv8SbFsf0ouxMX0-r77tSN68LjlXmU?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Media Psychology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1zIuTm2vOW_ol08Yugq4xNvWlRzP6Rhdw?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Film Study and Appreciation') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/103ssMZ1hWnW-k06-4yW4xVxJ6mky3U51?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Business Journalism') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1htwwmtsq_gPxAf6nvktDEG_eBTkeOBEr?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'News Editing and Fact Checking') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YppXGF41UnoTiC8hi3DAitXN8T-SWtVw?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'News Editing and Fact Checking (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Azgyv9c3tcPnDbLUoRsZJtuzAAYZB3OQ?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Sustainable Communication for Social Change') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1u5NB3uLK-w8bIFjMhvPEvJg2uG9uOsuX?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Graphics and Animation (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/11Jjj9ciTFjSGxXE8K8qSVn6itsWulEas?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Communication Research Methodology') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1N85VAy269R_QBiuao0iNA0kRoQPmG5dL?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Communication Research Methodology (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YkXejFAq5zH1GzxRAKdokaEcVs1WwanZ?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Advertising & Strategic Communication') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KhI8bF0RcoDhbVwLK0aJrWxSCSkVNLdH?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Advertising & Strategic Communication (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1XQcU7gnm5hrwQPrP_CFoXJZifNbMq4-m?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Filmmaking') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Hi3z-Cs7xTU7YYsxjKL0UOhqWznNEDgI?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Filmmaking (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1o1d5pHwShToWW94DNqUKKPwrLJgO-lqJ?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Media, Gender and Culture') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1-bkOCEz9uYhxow0MKM8Xv2K2EmvhLgCr?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Online and Mobile Journalism') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1a5XUB54lXEK6HCTN8FhdzReuVogOzQFb?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Online and Mobile Journalism (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KVBflkGHI_2AlmSZeLHkLKFY-ivA-0sT?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Investigative Journalism') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1Skq8R4R7d1c7QThomeS_koQz7Qd3ObMR?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'TV News Production and Presentation') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1llQnXD_M0gVW_xeyUKNrWIWeJeTkSei2?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'TV News Production and Presentation (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1jys2EuZbgEsuc_Ftd0myLVV2ZwYaO77p?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Creative and Feature Writing') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1KL-RWa8U-UlgEPvXeaty0X5UpXVtiB0C?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Screenwriting and Production (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1YQdUWcyZyKIzmeYsDzlRHmut-fYQPj6D?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Health and Science Communication') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1vonxo-ToENEEauELKkye4kGRqr1ALsa4?usp=drive_link';
 }
 if (department == 'JOURNALISM' && course == 'Data Journalism (Lab)') {
-    return 'your_drive_link_here';
+    return 'https://drive.google.com/drive/folders/1FbuG8IKWln41kS3aJzzXOH_NhXLp5UIh?usp=drive_link';
 }
 
 
