@@ -821,157 +821,157 @@ String getPdfUrl(String department, String course) {
     return 'https://drive.google.com/drive/folders/1MPK3uHU1VllgoVns1Traaha4Aw_0nLCE?usp=sharing';
 }
 if (department == 'EEE' && course == 'Digital Signal Processing Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1xJAxSfAkKuXYptHDvCyYLNS1lI8a7Jr1?usp=sharing';
 }
 if (department == 'EEE' && course == 'Measurement and Instrumentation Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1aocnPZnh-OkTX2dCCbIhpIWMqUwJu3WB?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Power System Protection') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1AgiAbG8tmDkbddTmnQjH0qO7iiwGIp9n?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Engineering Ethics and Environmental Protection') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1SzD06VC56bItx_fDKBRKIqOvN1DFclcB?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Communication Engineering II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ljlK_SybEuhU7a3S0a8ZXDN-Rp6nblAT?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Power System Protection Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1_0EWdHUd_yek2c7lCnys6nUmKM0ShDC-?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Digital Signal Processing') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1yQLC_BbImJ-FldQKYTpot1VYD7igd7XK?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Measurement and Instrumentation') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1krW2QgaFo-KQ52nIwFYsdo7RzarwxB-8?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Communication Engineering I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1aYRpW3G5sCdgVjaQCJKOdt9bHtgGPwDo?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Microprocessor and Interfacing Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/15HgtcG8UAywb5zZyPlsN-834FIqde7hL?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Control Systems Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1Tuc-l7yOvOzgGtatNi45L7WZKsa-jH2C?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Control Systems') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1c1Y6Ai_F5ThL2o917nzCaYRfO1ozY8gW?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Microprocessor and Interfacing') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/12-mOgWgHsRebvSdrfSxO37DTY5DhWZKs?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Programming II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1PSgqi8nsZZjtQsUeciUBx1IBnqk_eA0N?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Power System Analysis Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1vOoQEMXoncjRMck28ROwKMkqSIyLadJC?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electromagnetic Fields and Waves') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/19pzerv9PVije9V3O8IQpnib2t0MDK06n?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Power System Analysis') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1AgiAbG8tmDkbddTmnQjH0qO7iiwGIp9n?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Basic Mechanical Engineering Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/14FqPeq2tFz8kEb8q1-eOBTBP59tXQILK?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Energy Conversion II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1hhaYHk9i4_D1JIuHNx_zUrPGltMcoZ0P?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Digital Electronics Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/15wznT4OrztUn8_XEhPMAo988Pufk8Mcc?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electronics Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1wIz_hqGq7qw3gbTh2qLtxNjKh0YdMbTW?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Digital Electronics') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/11y3p41uU1_HgAnHCnlBiXKXjoUl1VYjN?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Transmission and Distribution of Electrical Power') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1u6cQhFqDw7szFsUhU9tPHlzKu51ll4Qb?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electronics II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/166To2q8tC51pS1JUYRW1vaOTtTN-3RZs?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Energy Conversion Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1wTmeJo9ppjJK0N2f-PBGWb-rcp0L0GOZ?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Continuous Signals and Linear Systems') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1Y7xjBbPPwWcQzjdoJsYkm8iDt-kJ6JLz?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Engineering Drawing and Services Design Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1_ed2sn168DSUrSQkUyI1-UtEgwXSnoc8?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electrical Properties of Materials') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1KCfRI99cvD9IhiHiRjbqMgXx-u9uqTr5?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Ordinary and Partial Differential Equation') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1Rh6tSx1wU0hiXgOdnkHjoTFNyUoZNzGx?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electronics I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/11t795-Y1efXRhlhbD5rc5BYjddR4cws1?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Employability 360°') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1k8-w50Qz4fpz_GlOv8-hLKr5gZGF1EbW?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Basic Mechanical Engineering') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1hDja3cj9E7y-20xfN8cJpqI47w6MDQtd?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Numerical Analysis Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/13sdEFpgFjg-oBqe8q8-35xFHuAWiUI23?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Co-ordinate Geometry, Vector Analysis and Statistics') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1uEMGEiwG37fgMxlJYMYVDL_gJ6kv5ROB?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Linear Algebra & Complex Variable') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1k2D8hctafpZ2128jIM8yLRB-6TV4fWne?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Professional English II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1trfVyG4HD38205uCXQV0PmNdvnqesdJY?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electrical Circuits Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/10SwNlIYlkN1C7Pp7-gfRUKvd5rz6LB9G?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Art of Living') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1IB4UJ8XcyZYYLECwuvGv5XNE4MQTs0pp?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Programming I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1Wlz2C5NfYgyyR-Bce1eMX_MX7soBOwLx?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Economics and Accounting for Engineers') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1n3n8nqbD5wCqvH5px3BsE3aMY5J3EHhY?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electrical Circuits II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1kYkCrpZSBpz_d_1hd6CZI0LSuVOfw-zx?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Circuit Simulation Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1JiFgP3LdZM73L2nij8BRGDiv91O07E6_?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Chemistry Laboratory') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1QWJiBzy1olPjnOiRDBOPuXkm-GwRLNM0?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Bangladesh Studies') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1LH9rKMccRp9Y0Lmueei00kJ9Mvns5ibO?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Functional Bengali Language') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1cRf1D3Dj8Z9K5gjs3S6G89LsmDPh-0Zv?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Physics') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1N1x-Vz9R93KTd2Pc82GPvv_Zz_bz9cGV?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Professional English I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ZIRo9jkIo1JmuFXjzBtpU5mz4qag5wwx?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Chemistry') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1nb-wIzgcmMKyB_7i9qSRtTsDVvLEwHDB?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Differential and Integral Calculus') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1dZ0fK0p3vqesp-yHkSmLwmyB73K5r3f3?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Electrical Circuits I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1lb9iSWRdnz9YACqUfq0CHcdxu_13XbMu?usp=drive_link';
 }
 if (department == 'EEE' && course == 'Physics Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1WuLKWhXARWqiP_KX2FLirPqvFDLalzED?usp=drive_link';
 }
 
 
@@ -981,142 +981,142 @@ if (department == 'EEE' && course == 'Physics Lab') {
 
 
 if (department == 'SWE' && course == 'Human Computer Interaction') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/16L1scaXYv5sE3OekYyrZNLwLj9OoF2QV?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Numerical Analysis') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1T25-8gUuSPk_qufSlrjW3Yim7ZFqHXGf?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Engineering Design Capstone Project') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1M4Ql5fBCbpLSZ5f03ELXdvSAl8pNxb4P?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Information System Security') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1F9D6tpyJnBbBAiDaSTAcg4IvofWGIz66?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Management Information System') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ntrU-mWIXSKNhPQycR6xAAEx8BhjFAt1?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Bangladesh Studies') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1YKxLZqf8_X-sKIkb8pjI8dGtqLyEPCCr?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Artificial Intelligence') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1duw-JxHLgD2UMHlQJs0aeqy65sd6l6XG?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Introduction to Machine Learning') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1mwg4mDBNgPkgjQiKUDhuixqThjwHXLzO?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Artificial Intelligence Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1aG7La0TR1gWanmWASE228brBVaOo-1tC?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Engineering Web Application Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1UaV90cJjJe3lCwDVHtHmkWpwVWEjQSvL?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Quality Assurance & Testing Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1q-tmWgNyZxFcvchDDCVcxMzFMCGdWIqw?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Data Communication & Computer Networking') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1hn53CRR4_qXW_e8VFCnQS-q03fGO974j?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Data Communication & Computer Networking Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1nrXzt5NToZq4HZvtTZTp5TyLcAYsKrNT?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Principles of Accounting, Business & Economics') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1FThJ9Lg9rwnOdqSi1pGxU-9yeh_1ZQxZ?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Object Oriented Concepts') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/17HvXwBQol-wYfgHGrIGvLyfr-aW9g9zn?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Object Oriented Design') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/182LtEeGS2eNlwv0dXetPATyTQzTznZ32?usp=drive_link';
 }
 if (department == 'SWE' && course == 'System Analysis & Design Capstone Project') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1r-W-YmyoXxV94kRsv9Ii7WESmtmONqL4?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Quality Assurance & Testing') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ImzXlC2TSkvKtf3jPzYQ62lPzjgVXTpv?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Requirement Specifications & Analysis') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1wbmYZAK5YVU_XwwhOZU9vz49OMPxjcfS?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Design Pattern') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/194aYIFbIGpB827WwmAtnEYFUjdnRHVjt?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Architecture & Design') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1lYk6ZG2a0AnQvXUQziESXG6UXMP5huDx?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Theory of Computing') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ocCaBUSOpnk23CkmLw8i0Kvqo5B65rRt?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Database System Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/13X9LBizd_ostvDwS5Y57V8DKENHrpoH6?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Database System') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1IlU_o5_cFpA05wmdd7h6SnmYW9xYD3gd?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Operating System & System Programming Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1wQ4mpV99EZTJsJIpSQNOeq1e_VOZBr2g?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Introduction to Robotics') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1iwPzizqxNoiPpQxTkHP2lZSnZInrxG3J?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Operating System & System Programming') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1VYkz-vNA0LXN82uQtyR00pe5L-yOVSkU?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Algorithms Design & Analysis') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1DN8oWTFeY2V8vZ977xB6TGmuCjqzeHXw?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Digital Electronics & Logic Design') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1OCCz3gVWgUZ1eeA-NGp8cpDouC3SiVgr?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Algorithms Design & Analysis Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1pb4zDN1HWAA-a_ABmMlGHkhlTuFJLwKb?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Computer Architecture') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1zb-JAVWsykih6iZhcf7Z3QYlxzAmYTb9?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Software Development Capstone Project') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/19VgJYYJDS2wnSgO2yHIHDvuyeHzRheCF?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Data Structure Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1yk0RbsS78jDC2Ae91iTgRIvrhzIV6wNx?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Mathematics I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/10wHn98B5dCC8iZPuj5VhrXltr9VeHnO_?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Statistics I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1rqGP_9MHmZvS8ik-M3xJC8E3Se_-wUfd?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Mathematics II') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ItG7CTLFYmLR8j_y1CGQmvF0qro2NOYy?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Discrete Mathematics') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/15jMZgnqO_9MxieVvZMCsSCrj1M8pgbzv?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Data Structure') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/15H18ESsNxPzG_UN2h1-AWm6Dbi32kTv0?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Structured Programming Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1iD5niZFdn5cWOOxpjiOFKO1rwmrq0etW?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Physics I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1E13je7_3mqRvMaiDH-1vxAVRyIApqGI3?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Structured Programming') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1Hnc2Sj6LQw03OWIwREMBAQCko-dRfykh?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Introduction to Software Engineering') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1mXvJXybklHAIyUNpv7hWx3wzohh3hMiO?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Computer Fundamentals Lab') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/13hbXUvf-fPaHdBAk5hP8p-1PWROHC8gw?usp=drive_link';
 }
 if (department == 'SWE' && course == 'English I') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/19RQCvhr5zuYUAmi35V_BzfKwHA1oh6is?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Computer Fundamentals') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/12lj0ZzOmHeUEHUtpDxSgjuAM_DtJu1dh?usp=drive_link';
 }
 if (department == 'SWE' && course == 'Art of Living') {
-    return 'https://your-link-here';
+    return 'https://drive.google.com/drive/folders/1ajFg0TAwqFkF3rhYaqDYzidUNnfGHM7r?usp=drive_link';
 }
 
 
