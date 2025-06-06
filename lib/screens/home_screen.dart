@@ -15,7 +15,7 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
   late AnimationController _logoController;
   late Animation<double> _logoOpacity;
 
-  String _fullText = "Welcome to SlideSpark!";
+  final String _fullText = "Welcome to SlideSpark!";
   String _displayedText = "";
   int _charIndex = 0;
   bool _showTagline = false;
